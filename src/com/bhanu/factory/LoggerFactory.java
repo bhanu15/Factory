@@ -19,7 +19,7 @@ public class LoggerFactory {
 		return instance;
 	}
 
-	// to prevent using constructor for creating instances.
+	// to prevent using constructor for creating instances.kgjg
 	private LoggerFactory() {
 
 	}
